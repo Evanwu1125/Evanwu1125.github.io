@@ -25,7 +25,7 @@ I am currently a first-year MPhil in Data Science and Analysis (DSA) at the Hong
 - *2025.01*: &nbsp;🎉🎉 We proposed ChartFinder and ChartCards under the coorperation with HUAWEI (Submitted to SIGMOD2026 and NurIPS 2025 respectively).
 - *2025.01*: &nbsp;🎉🎉 We proposed AskChart, which is a chart understanding model designed on MoE architecture.
 - *2024.08*: &nbsp;🎉🎉 ChartInsights was accepted by EMNLP2024(Findings).
-- *2024.08*: &nbsp;🎉🎉 I joined the DataLab at HKUST(GZ) as a Mphil student, advised by Professor Yuyu Luo.
+- *2024.08*: &nbsp;🎉🎉 I joined the DIAL LAB at HKUST(GZ) as a Mphil student, advised by Professor Yuyu Luo.
 
 # 📝 Publications 
 
