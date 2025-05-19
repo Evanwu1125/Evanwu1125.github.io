@@ -21,8 +21,8 @@ I am currently a first-year MPhil in Data Science and Analysis (DSA) at the Hong
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 We proposed LiteCoT and corresponding series models Liter (Submitted to NurIPS 2025).
-- *2025.01*: &nbsp;🎉🎉 We proposed ChartFinder and ChartCards under the coorperation with HUAWEI (Submitted to SIGMOD2026 and NurIPS 2025 respectively).
+- *2025.05*: &nbsp;🎉🎉 We proposed LiteCoT and corresponding series models Liter (Submitted to NeurIPS 2025).
+- *2025.01*: &nbsp;🎉🎉 We proposed ChartFinder and ChartCards under the coorperation with HUAWEI (Submitted to SIGMOD2026 and NeurIPS 2025 respectively).
 - *2025.01*: &nbsp;🎉🎉 We proposed AskChart, which is a chart understanding model designed on MoE architecture.
 - *2024.08*: &nbsp;🎉🎉 ChartInsights was accepted by EMNLP2024(Findings).
 - *2024.08*: &nbsp;🎉🎉 I joined the DIAL LAB at HKUST(GZ) as a Mphil student, advised by Professor Yuyu Luo.
@@ -99,7 +99,7 @@ Xudong Yang, **Yifan Wu**, Yizhang Zhu, Nan Tang, Yuyu Luo
 
 # 📖 Educations
 - *2024.09 - 2026.07 (now)*, The Hong Kong University of Science and Technology (Guangzhou). 
-- *2020.09 - 2024.06*, Nanjing University Of Science and Technology. 
+- *2020.09 - 2024.06*, Nanjing University of Information Science and Technology. 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
